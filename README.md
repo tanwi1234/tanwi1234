@@ -1,4 +1,4 @@
-<img src="kevin-borrill-acmzx_87Rh4-unsplash">
+<img src="https://drive.google.com/file/d/1H6dW6Gcka2ta-QQAh8fjrSlvY2TxpaS2/view?usp=sharing">
 <h1 align="center">Hi 👋, I'm Tanwi Kumari</h1>
 <h3 align="center">A self taught passionate Front end Developer.Open to new experience and willing to work as an key player in challenging and creative Environment. I am highly interested in development field and have Hands-on experience of building websites and web application using different Tech-frameworks and languages. I am fond of learning, exploring new technologies everyday and eager to solve real life problems by developing several applications and projects using my technical and soft skills. Looking to find a long term position where my passion for development can be brought to some new projects. Learning By Doing!</h3>
 
