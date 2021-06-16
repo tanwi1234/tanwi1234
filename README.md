@@ -1,3 +1,4 @@
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0/1600774582457?e=1628121600&v=beta&t=HN2xs8iRv7SQr4RlzzSs1KrRhnC0CpUfD1K40jqxYWc)](https://khushboogoel01.github.io)
 <h1 align="center">Hi 👋, I'm Tanwi Kumari</h1>
 <h3 align="center">A self taught passionate Front end Developer.Open to new experience and willing to work as an key player in challenging and creative Environment. I am highly interested in development field and have Hands-on experience of building websites and web application using different Tech-frameworks and languages. I am fond of learning, exploring new technologies everyday and eager to solve real life problems by developing several applications and projects using my technical and soft skills. Looking to find a long term position where my passion for development can be brought to some new projects. Learning By Doing!</h3>
 
