@@ -7,12 +7,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanwi1234&label=Profile%20views&color=0e75b6&style=flat" alt="tanwi1234" /> </p>
 
  - 🌱 I’m currently learning **Full stack development and enhancing my programming skills**
-
- -📄 Looking to find a long term position where my passion for development can be brought to some new projects. 
  
-- 📫 How to reach me **tanwikumari22@gmail.com**
+ - 📫 Looking to find a long term position where my passion for development can be brought to some new projects.
+ 
+ - 📫 How to reach me **tanwikumari22@gmail.com**
 
-- 📄Please have a look to my resume to know more about me [https://drive.google.com/file/d/1ptv7zjZ34gcCUuWPeV6SQd8yULfp_zTR/view?usp=sharing](https://drive.google.com/file/d/1ptv7zjZ34gcCUuWPeV6SQd8yULfp_zTR/view?usp=sharing)
+ - 📄Please have a look to my resume to know more about me [https://drive.google.com/file/d/1ptv7zjZ34gcCUuWPeV6SQd8yULfp_zTR/view?usp=sharing](https://drive.google.com/file/d/1ptv7zjZ34gcCUuWPeV6SQd8yULfp_zTR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
