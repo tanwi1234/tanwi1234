@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanwi1234&label=Profile%20views&color=0e75b6&style=flat" alt="tanwi1234" /> </p>
 
-- 🌱 I’m currently learning **Full stack development and enhancing my programming skills**
+ - 🌱 I’m currently learning **Full stack development and enhancing my programming skills**
 
--📄 Looking to find a long term position where my passion for development can be brought to some new projects. 
+ -📄 Looking to find a long term position where my passion for development can be brought to some new projects. 
  
 - 📫 How to reach me **tanwikumari22@gmail.com**
 
