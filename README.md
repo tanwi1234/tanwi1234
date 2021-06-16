@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tanwi Kumari</h1>
 <h4 align="left">A self taught passionate Front end Developer.Open to new experience and willing to work as an key player in challenging and creative Environment. I am highly interested in development field and have Hands-on experience of building websites and web application using different Tech-frameworks and languages. I am fond of learning, exploring new technologies everyday and eager to solve real life problems by developing several applications and projects using my technical and soft skills. Looking to find a long term position where my passion for development can be brought to some new projects. </h3>
 
-  <h1>Learning By Doing!</h1>
+  <h2><i>Learning By Doing!</i></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanwi1234&label=Profile%20views&color=0e75b6&style=flat" alt="tanwi1234" /> </p>
 
