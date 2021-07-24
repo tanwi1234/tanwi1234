@@ -1,6 +1,6 @@
 <img src="https://octodex.github.com/images/femalecodertocat.png" height="400" align="right"/>
 <h1 align="center">Hi 👋, I'm Tanwi Kumari</h1>
-<h4 align="left">A self taught enthusiastic Developer passionate about developing many application to solve the real life problems.Open to new experience and willing to work as an key player in challenging and creative Environment. I am highly interested in development and also have Hands-on experience in web development. I am fond of learning, exploring new technologies and eager to contribute to more and more open source projects and develop several applications and projects using my technical and soft skills. </h3>
+<h4 align="left">A self taught enthusiastic Developer passionate about working on various application to solve the real life problems.Open to new experience and willing to work as an key player in challenging and creative Environment. I am highly interested in development and also have Hands-on experience in web development. I am fond of learning, exploring new technologies and eager to contribute to more and more open source projects and develop several applications and projects using my technical and soft skills. </h3>
 
   <h2><i>Learning By Doing!</i></h2>
 
