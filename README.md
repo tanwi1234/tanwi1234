@@ -1,6 +1,6 @@
 <img src="https://octodex.github.com/images/femalecodertocat.png" height="400" align="right"/>
 <h1 align="center">Hi 👋, I'm Tanwi Kumari</h1>
-<h3 align="center">A passionate Self Taught developer from India. Love to enhance my existing skills and gain new skills by exploring the technologies deeply. Extremely passionate about Development and Looking to find a long term position where my passion for development can be brought to some new projects.Open to new experience and willing to work as an key player in challenging and creative Environment.</h3>
+<h3 align="left">A passionate Self Taught developer from India. Love to enhance my existing skills and gain new skills by exploring the technologies deeply. Extremely passionate about Development and Looking to find a long term position where my passion for development can be brought to some new projects.Open to new experience and willing to work as an key player in challenging and creative Environment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanwi1234&label=Profile%20views&color=0e75b6&style=flat" alt="tanwi1234" /> </p>
 
@@ -24,11 +24,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/tanwi2209" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/tanwi2209" height="30" width="40" /></a>
+<a href="https://dev.to/tanwi2209" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tanwi2209" height="30" width="40" /></a>
 <a href="https://twitter.com/tk22o9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tk22o9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tanwi-kumari-2209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanwi-kumari-2209/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/tanwikumari22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/tanwikumari22" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/tanwikumari22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/tanwikumari22/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanwi-kumari-2209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanwi-kumari-2209" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tanwikumari22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanwikumari22" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tanwikumari22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanwikumari22" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/tanwi/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/tanwi/profile" height="30" width="40" /></a>
 </p>
 
